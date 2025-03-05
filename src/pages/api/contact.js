@@ -1,3 +1,4 @@
+'use client'
 import { db } from "../../../firebaseConfig";
 import { collection, addDoc, getDocs } from "firebase/firestore";
 
